@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-3.2.0_47e3122f03d11825999add2005442904fcc7e405/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_4e899b9b9fb8c711ec029abf432a8ab3c84cffa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_54fd5e63d416da8004594e36ba5b57e6f95aea54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_5b8b648f6071695207041ddd9acc814b8a27cc73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_a4fea994cd6f21f660898e9bb7921faeb4647358/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_c9011499acaa119ea8513522c12e54ae8f505d4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d84cd84110cd9ba271c186b12897b2dc5f43cf3">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6fe6ff432a3fb05f96dc796a10155fb732f9bef5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_5050ac56112c80343e2e8209f6516a8f4f63f8ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="016a6cf26093b7c9421250babedaae5ff4ff4a3e">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8e5dba6bf92a59cc7f30bb5997288d446f5cb265/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_a7cc093e494ae613533e4008ab6522a9e83a111a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_7fb9e657f9a64ae8ea71b9fc02dc536628dcb488/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_c40b0f5cf81f2e773854ca42906db4a55b3982ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_5e637a4b501235a19d15cb9b684cd6805f51fa23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saurabhpathak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/saurabhpathak/Documents/projects/card-less/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_fbc93cdc1cfa10c6730e3ac9432198da07acd287/classes.dex" />
+    </item>
+
+</items>
